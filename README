@@ -1,0 +1,2 @@
+
+There is a supplied Makefile to build the decrypt program. The executable is named alter-hao-ramakrishna-salomon-decrypt. It expects the ciphertext on stdin, and outputs the plaintext guess on stdout. The input and output is whitespace sensitive.
